@@ -4,5 +4,6 @@ body {
     
   }
 h1 {color: pink;text-align: left;background-color: black;text-shadow: 4px 4px 10px red; margin-left:5%; margin-right: 5%}
-		p:hover {color: black;text-align: center;text-shadow: 4px 4px 10px red;background: #786b59;margin-left:5%; margin-right: 10%    
+		p {color: black;text-align: center;text-shadow: 4px 4px 10px red;margin-left:5%; margin-right: 10%    
     color: #ffe}
+p:hover{color:red}
