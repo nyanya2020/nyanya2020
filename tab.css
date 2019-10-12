@@ -1,0 +1,11 @@
+
+html {
+   background: url(1.png); background-position: left;background-repeat: repeat-y;background-attachment: scroll ; 
+  }
+  body {
+   background: url(1.png); background-position: right;background-repeat: repeat-y ;background-attachment: scroll; 
+    
+  }
+h1 {color: pink;text-align: left;background-color: black;text-shadow: 4px 4px 10px red; margin-left:5%; margin-right: 5%}
+		p:hover {color: black;text-align: center;text-shadow: 4px 4px 10px red;background: #786b59;margin-left:5%; margin-right: 10%    
+    color: #ffe}
