@@ -1,5 +1,5 @@
-html {background: url(right.png); position: right ;repeat: repeat-y }
-body {  background: url(left.png); position: left;repeat: repeat-y;}
+body {  background: url(left.png); position: left;repeat: repeat-y;
+background: url(right.png); position: right ;repeat: repeat-y}
 h1 {color: pink;text-align: left;background-color: black;text-shadow: 4px 4px 10px red; margin-left:5%; margin-right: 5%}
 	
 
